@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Pokale</h1>
-<h3 align="center">I’m interested in Web Development and Problem Solving.</h3>
+<h3 align="center">I’m passionate about Web Development and DevOps.</h3>
 
 🔭 I’m currently working on learning DSA techniques and modern web development frameworks.<br><br>🌱 I’m currently learning MERN stack.<br><br>👯 I’m looking to collaborate on innovative web applications.<br><br>💬 Ask me about MERN stack.<br><br>📫 How to reach me tejaspokale22@gmail.com
 
