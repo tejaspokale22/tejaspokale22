@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tejas Pokale</h1>
-<h3 align="center">I’m passionate about Web Development and DevOps.</h3>
-
-🔭 I’m currently working on learning DSA techniques and modern web development frameworks.<br><br>👯 I’m looking to collaborate on innovative web applications.<br><br>💬 Ask me about MERN stack.<br><br>📫 How to reach me tejaspokale22@gmail.com
-
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tejas-pokale-5047061b3/)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tejaspokale4466)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tejaspokale22)
