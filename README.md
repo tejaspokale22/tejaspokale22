@@ -72,13 +72,13 @@ I have done my B.Tech in Information Technology at PCCOE, Pune while actively co
 ## Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgres,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgres,redis,firebase,supabase" />
 </p>
 
 ## Cloud, DevOps & Tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,githubactions,git,github,figma,vscode,idea,redis" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,githubactions,git,github,figma,vscode,idea" />
 </p>
 
 ---
@@ -315,7 +315,7 @@ Developed academic SaaS systems automating assessment workflows, accreditation t
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tejaspokale22&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
+<img src="https://github-trophies.vercel.app/?username=tejaspokale22&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
 
 </div>
 
