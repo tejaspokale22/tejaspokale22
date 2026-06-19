@@ -9,13 +9,13 @@
 </br>
 </br>
 
-![B.Tech](https://img.shields.io/badge/B.Tech-Information%20Technology-7C3AED?style=for-the-badge)
-![PCCOE](https://img.shields.io/badge/PCCOE-Pune-6366F1?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-8B5CF6?style=for-the-badge)
+![B.Tech](https://img.shields.io/badge/B.Tech-Information%20Technology-black?style=for-the-badge&logo=academia&logoColor=white)
+![PCCOE](https://img.shields.io/badge/PCCOE-Pune-black?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Open%20Source](https://img.shields.io/badge/Open%20Source-Contributor-black?style=for-the-badge&logo=github&logoColor=white)
 
-![Location](https://img.shields.io/badge/Location-Pune%2C%20India-4F46E5?style=flat-square)
-![](https://komarev.com/ghpvc/?username=tejaspokale22\&style=flat-square\&color=7C3AED)
-![](https://img.shields.io/github/stars/tejaspokale22?style=flat-square\&color=8B5CF6)
+![Location](https://img.shields.io/badge/Location-Pune%2C%20India-black?style=flat-square&logo=googlemaps&logoColor=white)
+![](https://komarev.com/ghpvc/?username=tejaspokale22&style=flat-square&color=000000)
+![](https://img.shields.io/github/stars/tejaspokale22?style=flat-square&color=000000)
 
 </div> 
 
@@ -325,19 +325,19 @@ Developed academic SaaS systems automating assessment workflows, accreditation t
 <div align="center">
 
 <a href="mailto:tejaspokale22@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/tejaspokale22">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/tejaspokale22">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://tejaspokale.tech">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </div>
@@ -351,5 +351,5 @@ Developed academic SaaS systems automating assessment workflows, accreditation t
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:4F46E5,50:7C3AED,100:9333EA" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:000000,100:000000" />
 </p>
