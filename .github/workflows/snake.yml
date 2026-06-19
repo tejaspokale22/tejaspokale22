@@ -6,7 +6,7 @@ schedule:
 workflow_dispatch:
 
 jobs:
-generate:
+build:
 runs-on: ubuntu-latest
 
 ```
@@ -18,11 +18,10 @@ steps:
         dist/github-contribution-grid-snake.svg
         dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-  - name: Push snake to output branch
-    uses: crazy-max/ghaction-github-pages@v4
+  - name: Deploy to output branch
+    uses: peaceiris/actions-gh-pages@v3
     with:
-      target_branch: output
-      build_dir: dist
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      github_token: ${{ secrets.GITHUB_TOKEN }}
+      publish_dir: ./dist
+      publish_branch: output
 ```
