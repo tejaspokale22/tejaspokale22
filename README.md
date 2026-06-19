@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1100&lines=Software+Engineer;Generative+AI+Explorer;Cloud+%26+DevOps+Enthusiast;Open+Source+Contributor;Building+Products+that+Solve+Real+Problems" />
 
-<br/>
+</br>
 
 ![B.Tech](https://img.shields.io/badge/B.Tech-Information%20Technology-7C3AED?style=for-the-badge)
 ![PCCOE](https://img.shields.io/badge/PCCOE-Pune-6366F1?style=for-the-badge)
@@ -13,8 +13,6 @@
 ![](https://img.shields.io/github/followers/tejaspokale22?style=flat-square\&color=6366F1)
 ![](https://img.shields.io/github/stars/tejaspokale22?style=flat-square\&color=8B5CF6)
 ![](https://img.shields.io/github/forks/tejaspokale22?style=flat-square\&color=8B5CF6)
-
-<br/>
 
 </div>
 
