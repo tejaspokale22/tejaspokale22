@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Open+Source+Contributor;Building+Scalable+Products+for+Real+World+Impact" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Generative+AI+Explorer;Cloud+Enthusiast;Open+Source+Contributor;Building+Products+That+Solve+Real+Problems" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/tejaspokale22/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/your-github">
+<a href="https://github.com/tejaspokale22">
 <img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -40,27 +40,27 @@
 
 # About Me
 
-Software Engineer and Full Stack Developer with experience building scalable SaaS platforms, AI-powered products, blockchain applications, and enterprise-grade web systems. Passionate about solving real-world problems through technology, combining software engineering principles with AI, cloud computing, and modern development practices.
+I am a Software Engineer with experience building scalable SaaS platforms, AI-powered products, blockchain applications, and enterprise-grade web systems. Passionate about solving real-world problems through technology, combining software engineering principles with AI, cloud computing, and modern development practices.
 
-Currently pursuing B.Tech in Information Technology at PCCOE, Pune while actively contributing to open source initiatives and developing innovative products across Web, AI, and Cloud ecosystems. Recognized as a Hacktoberfest Super Contributor and experienced in delivering production-ready solutions with strong focus on performance, security, scalability, and user experience.
+I have done my B.Tech in Information Technology at PCCOE, Pune while actively contributing to open source initiatives and developing innovative products across Web, AI, and Cloud ecosystems. Recognized as a Hacktoberfest Super Contributor and experienced in delivering production-ready solutions with strong focus on performance, security, scalability, and user experience.
 
 ### Open To
 
 * Software Engineering Roles
 * Full Stack Development
-* AI / Machine Learning Engineering
+* Generative AI Roles
 * Cloud & DevOps Engineering
-* Open Source Collaboration
+* Open Source Contributions
 * Product Engineering Opportunities
 
 ---
 
 # Tech Stack
 
-## Languages
+## Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,sql" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,sql" />
 </p>
 
 ## Frontend
@@ -72,13 +72,13 @@ Currently pursuing B.Tech in Information Technology at PCCOE, Pune while activel
 ## Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgres,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgres,firebase,supabase" />
 </p>
 
 ## Cloud, DevOps & Tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,figma,vscode,idea,redis" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,githubactions,git,github,figma,vscode,idea,redis" />
 </p>
 
 ---
@@ -87,13 +87,12 @@ Currently pursuing B.Tech in Information Technology at PCCOE, Pune while activel
 
 | Domain                 | Proficiency  | Details                                           |
 | ---------------------- | ------------ | ------------------------------------------------- |
-| Generative AI          | Advanced     | LLM Applications, Prompt Engineering, RAG Systems |
+| Generative AI          | Advanced     | LLM Applications, Prompt Engineering              |
+| RAG Systems            | Advanced     | Retrieval-Augmented Generation, Knowledge Systems |
 | AI Agents              | Advanced     | Agentic Workflows, Automation Systems             |
 | NLP                    | Advanced     | Embeddings, Semantic Search, Text Processing      |
 | Vector Databases       | Intermediate | Similarity Search & Retrieval                     |
-| Computer Vision        | Intermediate | Image Classification & Analysis                   |
-| Recommendation Systems | Advanced     | AI Matching & Ranking Systems                     |
-| LLM Integrations       | Advanced     | Gemini, HuggingFace, LLaMA                        |
+| LLM Integrations       | Advanced     | Gemini, Hugging Face, LLaMA                       |
 | AI Product Engineering | Advanced     | Production AI Features & Deployments              |
 
 ---
@@ -114,7 +113,6 @@ A Polygon blockchain-based decentralized certificate issuance and verification p
 | Performance | Instant QR verification                             |
 | Security    | Blockchain immutability + Web3 authentication       |
 | Impact      | Fraud-resistant certificate verification            |
-| Repository  | Private / Available Upon Request                    |
 
 #### Engineering Highlights
 
@@ -289,44 +287,12 @@ Developed academic SaaS systems automating assessment workflows, accreditation t
 
 ---
 
-# Certifications
-
-## AWS
-
-![AWS Educate](https://img.shields.io/badge/AWS-Educate%20Cloud%20Computing-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-
-## Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
-
-## NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Computer%20Networks-4F46E5?style=for-the-badge)
-
-## Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
-
----
-
 # Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com">
+<a href="https://leetcode.com/tejaspokale22">
 <img src="https://img.shields.io/badge/LeetCode-600%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Problem%20Solver-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programmer-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </div>
@@ -337,11 +303,11 @@ Developed academic SaaS systems automating assessment workflows, accreditation t
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejaspokale22&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaspokale22&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaspokale22&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -351,7 +317,7 @@ Developed academic SaaS systems automating assessment workflows, accreditation t
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-github&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tejaspokale22&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
@@ -361,7 +327,7 @@ Developed academic SaaS systems automating assessment workflows, accreditation t
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejaspokale22&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -371,40 +337,11 @@ Developed academic SaaS systems automating assessment workflows, accreditation t
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-github/your-github/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/tejaspokale22/tejaspokale22/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
-
-# Current Focus
-
-```yaml
-Learning:
-  - Advanced System Design
-  - Generative AI
-  - Agentic AI Frameworks
-  - Cloud Native Architecture
-  - MLOps
-
-Building:
-  - AI Powered SaaS Products
-  - Full Stack Applications
-  - Open Source Projects
-  - Developer Tools
-
-Exploring:
-  - Multi Agent Systems
-  - Vector Databases
-  - RAG Architectures
-  - Blockchain Applications
-
-Open To:
-  - Software Engineering Roles
-  - AI Engineering Roles
-  - Full Stack Development
-  - Open Source Collaboration
-```
 
 ---
 
@@ -416,11 +353,11 @@ Open To:
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/tejaspokale22">
 <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/your-github">
+<a href="https://github.com/tejaspokale22">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
