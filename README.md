@@ -301,11 +301,17 @@ Developed academic SaaS systems automating assessment workflows, accreditation t
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejaspokale22&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejaspokale22&theme=tokyonight" />
 
-<img height="180em" src="https://streak-stats.demolab.com?user=tejaspokale22&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaspokale22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tejaspokale22&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tejaspokale22&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tejaspokale22&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tejaspokale22&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
