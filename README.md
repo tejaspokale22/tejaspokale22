@@ -11,7 +11,6 @@
 
 ![Location](https://img.shields.io/badge/Location-Pune%2C%20India-4F46E5?style=flat-square)
 ![](https://komarev.com/ghpvc/?username=tejaspokale22\&style=flat-square\&color=7C3AED)
-![](https://img.shields.io/github/followers/tejaspokale22?style=flat-square\&color=6366F1)
 ![](https://img.shields.io/github/stars/tejaspokale22?style=flat-square\&color=8B5CF6)
 
 </div> 
