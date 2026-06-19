@@ -1,5 +1,3 @@
-# <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Tejas%20Pokale&fontAlign=50&fontAlignY=40&color=0:4F46E5,50:7C3AED,100:9333EA&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1100&lines=Software+Engineer;Generative+AI+Explorer;Cloud+%26+DevOps+Enthusiast;Open+Source+Contributor;Building+Products+that+Solve+Real+Problems" />
@@ -11,28 +9,12 @@
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-8B5CF6?style=for-the-badge)
 
 ![Location](https://img.shields.io/badge/Location-Pune%2C%20India-4F46E5?style=flat-square)
-
-<a href="https://tejaspokale.tech">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/tejaspokale22/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:tejaspokale22@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/tejaspokale22">
-<img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+![](https://komarev.com/ghpvc/?username=tejaspokale22\&style=flat-square\&color=7C3AED)
+![](https://img.shields.io/github/followers/tejaspokale22?style=flat-square\&color=6366F1)
+![](https://img.shields.io/github/stars/tejaspokale22?style=flat-square\&color=8B5CF6)
+![](https://img.shields.io/github/forks/tejaspokale22?style=flat-square\&color=8B5CF6)
 
 <br/>
-
-![](https://komarev.com/ghpvc/?username=your-github\&style=flat-square\&color=7C3AED)
-![](https://img.shields.io/github/followers/your-github?style=flat-square\&color=6366F1)
-![](https://img.shields.io/github/stars/your-github?style=flat-square\&color=8B5CF6)
 
 </div>
 
