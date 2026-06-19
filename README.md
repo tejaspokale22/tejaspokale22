@@ -349,7 +349,3 @@ Developed academic SaaS systems automating assessment workflows, accreditation t
 *"Engineering scalable products, leveraging AI intelligently, and creating meaningful impact through technology."*
 
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:000000,100:000000" />
-</p>
