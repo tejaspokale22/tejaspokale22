@@ -180,7 +180,7 @@ AI-powered waste reporting and management platform using image analysis, geo-tag
 </details>
 
 <details>
-<summary><b>Fillio — AI Form Autofill Extension</b></summary>
+<summary><b>Fillio — Autofill Google forms Extension</b></summary>
 
 ### Overview
 
@@ -193,7 +193,6 @@ AI-powered browser extension enabling one-click smart form completion through in
 | Performance | Instant autofill                             |
 | Security    | Local processing workflows                   |
 | Impact      | Productivity enhancement                     |
-| Repository  | Available Upon Request                       |
 
 #### Engineering Highlights
 
@@ -213,7 +212,7 @@ AI-powered browser extension enabling one-click smart form completion through in
 
 **June 2025 – August 2025**
 
-Worked on AI-powered wellness SaaS products and large-scale e-commerce solutions while contributing across backend APIs, frontend systems, performance optimization, and AI integrations.
+Worked on AI-powered wellness SaaS products and e-commerce solutions while contributing across backend APIs, frontend systems, performance optimization, and AI integrations.
 
 ### Scope of Work
 
@@ -233,15 +232,14 @@ Worked on AI-powered wellness SaaS products and large-scale e-commerce solutions
 
 **October 2025**
 
-Recognized as a Super Contributor with 10+ quality pull requests merged and ranked among the top global contributors.
+Recognized as a Super Contributor with 10+ quality pull requests merged and ranked among the top 10k global contributors.
 
 ### Scope of Work
 
 * Open source contributions
 * Feature implementation
+* Fix Bugs and issues
 * Code quality improvements
-* Documentation enhancement
-* Community collaboration
 
 **Skills**
 
@@ -303,11 +301,11 @@ Developed academic SaaS systems automating assessment workflows, accreditation t
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejaspokale22&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejaspokale22&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaspokale22&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=tejaspokale22&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaspokale22&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaspokale22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -317,7 +315,7 @@ Developed academic SaaS systems automating assessment workflows, accreditation t
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tejaspokale22&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tejaspokale22&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
 
 </div>
 
@@ -327,7 +325,7 @@ Developed academic SaaS systems automating assessment workflows, accreditation t
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejaspokale22&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tejaspokale22&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -337,11 +335,9 @@ Developed academic SaaS systems automating assessment workflows, accreditation t
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tejaspokale22/tejaspokale22/output/github-contribution-grid-snake-dark.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/tejaspokale22/tejaspokale22/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
-
----
 
 ---
 
