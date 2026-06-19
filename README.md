@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Generative+AI+Explorer;Cloud+Enthusiast;Open+Source+Contributor;Building+Products+That+Solve+Real+Problems" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1100&lines=Software+Engineer;Generative+AI+Explorer;Cloud+%26+DevOps+Enthusiast;Open+Source+Contributor;Building+Products+that+Solve+Real+Problems" />
 
 <br/>
 
@@ -375,4 +375,6 @@ Developed academic SaaS systems automating assessment workflows, accreditation t
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4F46E5,50:7C3AED,100:9333EA"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:4F46E5,50:7C3AED,100:9333EA" />
+</p>
