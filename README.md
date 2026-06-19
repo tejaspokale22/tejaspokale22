@@ -317,16 +317,6 @@ Developed academic SaaS systems automating assessment workflows, accreditation t
 
 ---
 
-# Contribution Snake
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/tejaspokale22/tejaspokale22/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
----
-
 # Connect
 
 <div align="center">
