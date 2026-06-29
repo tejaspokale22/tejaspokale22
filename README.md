@@ -1,10 +1,5 @@
 <div align="center">
 
-<h2>Software Engineer | Generative AI Explorer | Cloud & DevOps Enthusiast</h2>
-
-</br>
-</br>
-
 ![B.Tech](https://img.shields.io/badge/B.Tech-Information%20Technology-black?style=for-the-badge)
 ![PCCOE](https://img.shields.io/badge/PCCOE-Pune-black?style=for-the-badge&logo=google-scholar&logoColor=white)
 ![Open%20Source](https://img.shields.io/badge/Open%20Source-Contributor-black?style=for-the-badge&logo=github&logoColor=white)
