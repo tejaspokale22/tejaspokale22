@@ -1,10 +1,9 @@
-```html
 <div align="center">
 
 <h2>Software Engineer | Generative AI Explorer | Cloud & DevOps Enthusiast | Open Source Contributor</h2>
 
 </div>
-```
+
 
 </br>
 </br>
