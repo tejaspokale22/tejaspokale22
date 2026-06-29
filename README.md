@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Software Engineer | Generative AI Explorer | Cloud & DevOps Enthusiast | Open Source Contributor</h2>
+<h2>Software Engineer | Generative AI Explorer | Cloud & DevOps Enthusiast</h2>
 
 </div>
 
