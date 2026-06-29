@@ -258,7 +258,7 @@ Developed academic SaaS systems automating assessment workflows, accreditation t
 | ----------------------- | ------------------------------------ |
 | Open Source             | Hacktoberfest Super Contributor      |
 | Competitive Programming | 600+ DSA Problems Solved             |
-| SQL Expertise           | 100+ SQL Problems Solved             |
+| SQL Expertise           | 150+ SQL Problems Solved             |
 | Coding Platforms        | 1600+ Contest Rating                 |
 | GitHub                  | 700+ Contributions                   |
 | Leadership              | DevOps Lead - GDGC PCCOE             |
@@ -305,16 +305,6 @@ Developed academic SaaS systems automating assessment workflows, accreditation t
 <div align="center">
 
 <img src="https://github-trophies.vercel.app/?username=tejaspokale22&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tejaspokale22&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
