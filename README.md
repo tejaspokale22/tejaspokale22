@@ -2,9 +2,6 @@
 
 <h2>Software Engineer | Generative AI Explorer | Cloud & DevOps Enthusiast</h2>
 
-</div>
-
-
 </br>
 </br>
 
